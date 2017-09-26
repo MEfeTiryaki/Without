@@ -1,0 +1,6 @@
+string CMD
+Player myPlayer 
+----
+uint8 Status
+Player yourPlayer
+Map map

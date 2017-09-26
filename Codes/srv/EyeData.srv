@@ -1,0 +1,13 @@
+string ID
+uint8 cmd
+uint16[] size
+---
+Map  background
+Vector4[] robots
+Vector4[] objects
+
+# cmd=1 -> take background image
+# cmd=2 -> find robot and object
+# robots are defined as x,y,theta coordinates and sticker ID
+# objects are defined as x,y and w,h of the rectanglar bourders
+

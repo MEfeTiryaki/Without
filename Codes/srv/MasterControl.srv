@@ -1,0 +1,15 @@
+string ID
+string CMD
+string gameMode
+Map map
+Player[] players
+
+
+----
+string Status
+
+
+# Reserved Map
+# 0 of the map is altitude map
+# 1 of the map is friction map
+# 2 of the map is temperature map

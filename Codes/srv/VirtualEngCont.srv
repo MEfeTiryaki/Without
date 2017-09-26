@@ -1,0 +1,6 @@
+string ID
+string CMD
+Map sceneMap
+Player[] players
+---
+Player[] players
